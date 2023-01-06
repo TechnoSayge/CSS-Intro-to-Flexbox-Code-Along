@@ -1,6 +1,6 @@
-* {
+/* * {
   border: 1px solid teal;
-}
+} */
 
 nav {
   /*display: none;*/
@@ -14,7 +14,7 @@ img {
 section  {
   display: flex;
   flex-wrap: wrap;
-  /* justify-content: center; */
+  justify-content: center;
   /* justify-content: space-around; */
   /* justify-content: space-between; */
   justify-content: space-evenly;
@@ -26,8 +26,8 @@ section  {
 }
 
 aside {
-  min-width: 20%;
-  display: flex;
-  align-items: center;
+  min-width: 20%; 
+  display: flex; 
+  align-items: center; 
   justify-content: center;
 }
